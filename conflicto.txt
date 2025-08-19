@@ -1,1 +1,1 @@
-"supuesto conflicto" 
+"Cambio desde rama-A" 
